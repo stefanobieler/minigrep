@@ -15,7 +15,7 @@ enum State {
 
 // Where all the magic happens.
 fn main() {
-    let code = String::from("1234");     // First we set a combination.
+    let code = String::from("1984");     // First we set a combination.
     let mut state = State::Locked;                  // Set the initial state to locked.
     let mut entry = String::new();          // Set the entry to an empty string.
 
