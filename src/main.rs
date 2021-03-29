@@ -64,8 +64,8 @@ fn main() {
             }
 
             State::Unlocked => {
-                println!("UNLOCKED");
-                return;
+                println!("UNLOCKED");   // print to the user that they were successful.
+                return;                 // exit the program.
             }
         }
     }
