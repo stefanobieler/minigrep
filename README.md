@@ -1,4 +1,3 @@
-# Combination Lock
+# Guessing Game
 
-This was just a rust exercise in me just experimenting with the language. The goal is to figure out the combination
-of to unlock the combination lock.
+A guessing game written in rust following the rust documentation.
