@@ -1,3 +1,4 @@
-# Guessing Game
+# Minigrep
 
-A guessing game written in rust following the rust documentation.
+minigrep is a system program clone of the stand system application grep
+(Global Regular Expression Print)
